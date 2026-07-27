@@ -1,8 +1,29 @@
 aid: highradius
 name: HighRadius
-description: 'HighRadius is a company surfaced as a portfolio company of iconiq-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  HighRadius is an AI-powered autonomous finance platform for the Office of the
+  CFO, automating the Order-to-Cash (O2C), Record-to-Report (R2R), Accounts
+  Payable (AP), and Treasury processes with a network of orchestrated AI agents.
+  The platform covers invoicing, collections, cash application, deductions,
+  credit, dispute management, financial close, reconciliation, consolidation,
+  and cash forecasting. HighRadius serves 1,500+ enterprise customers and ships
+  pre-built integrations with 50+ ERPs and systems including SAP, Oracle,
+  Microsoft Dynamics, and NetSuite. Integration is delivered through those
+  pre-built ERP connectors and partner engagements rather than a public
+  self-serve developer API; the company publishes a Trust Center documenting
+  SOC 2, ISO 27001, PCI DSS, and GDPR posture.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.highradius.com/wp-content/uploads/2025/02/HighRadius-OG.png
 url: https://raw.githubusercontent.com/api-evangelist/highradius/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +33,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Fintech
+- Autonomous Finance
+- Accounts Receivable
+- Order to Cash
+- Treasury
+- Accounts Payable
+- Financial Close
+- ERP Integration
+- CFO
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.highradius.com/
+- type: Documentation
+  url: https://www.highradius.com/software/integration-capabilities/
+- type: Pricing
+  url: https://www.highradius.com/pricing/
+- type: Blog
+  url: https://www.highradius.com/resources/blog/
+- type: Support
+  url: https://www.highradius.com/contact/
+- type: TermsOfService
+  url: https://www.highradius.com/company/legal/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.highradius.com/company/legal/privacy-policy/
+- type: TrustCenter
+  url: security/highradius-trust-center.yml
+- type: Compliance
+  url: https://trust.highradius.com/
+- type: DomainSecurity
+  url: security/highradius-domain-security.yml
+- type: Conformance
+  url: conformance/highradius-conformance.yml
+- type: LLMsTxt
+  url: llms/highradius-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

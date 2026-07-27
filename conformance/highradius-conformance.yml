@@ -1,0 +1,19 @@
+generated: '2026-07-19'
+method: searched
+source: https://trust.highradius.com/
+# Compliance / certification posture asserted from the HighRadius Trust Center.
+# No public OpenAPI is available, so cross-cutting API standards (oauth2, oidc,
+# rfc9457, etc.) cannot be derived and are not asserted here.
+standards:
+  - id: soc2
+    conforms: true
+    evidence: SOC 2 attestation published on trust.highradius.com
+  - id: iso-27001
+    conforms: true
+    evidence: ISO/IEC 27001 certification published on trust.highradius.com
+  - id: pci-dss
+    conforms: true
+    evidence: PCI DSS compliance published on trust.highradius.com
+  - id: gdpr
+    conforms: true
+    evidence: GDPR compliance published on trust.highradius.com

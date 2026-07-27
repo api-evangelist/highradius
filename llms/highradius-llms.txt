@@ -1,0 +1,21 @@
+# HighRadius
+
+> HighRadius is an AI-powered autonomous finance platform for the Office of the CFO, automating Order-to-Cash (O2C), Record-to-Report (R2R), Accounts Payable (AP), and Treasury with a network of orchestrated AI agents. It serves 1,500+ enterprises with pre-built integrations to 50+ ERPs including SAP, Oracle, Microsoft Dynamics, and NetSuite.
+
+Note: HighRadius does not publish a public developer portal or OpenAPI specification. Integration is delivered through pre-built ERP connectors and partner/professional-services engagements. The links below are the public surfaces the API Evangelist network has verified.
+
+## Company
+- [HighRadius Website](https://www.highradius.com/): World's #1 Autonomous Finance Platform.
+- [Pricing & Subscription](https://www.highradius.com/pricing/): Unique pricing and subscription model.
+- [Integration Capabilities](https://www.highradius.com/software/integration-capabilities/): Pre-built integrations with 50+ ERPs and systems.
+- [Partners](https://www.highradius.com/partners/): Partner and integration ecosystem.
+
+## Resources
+- [Knowledge Center](https://www.highradius.com/resources/): Order-to-Cash knowledge center.
+- [Blog](https://www.highradius.com/resources/blog/): Autonomous finance articles and guides.
+- [Contact / Support](https://www.highradius.com/contact/): Contact HighRadius.
+
+## Trust & Compliance
+- [Trust Center](https://trust.highradius.com/): SOC 2, ISO 27001, PCI DSS, GDPR.
+- [Terms of Use](https://www.highradius.com/company/legal/terms-of-use/)
+- [Privacy Policy](https://www.highradius.com/company/legal/privacy-policy/)
